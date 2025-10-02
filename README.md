@@ -1,4 +1,6 @@
-ai-invoice-agent/
+ai-invoice-agent
+   └──lib/
+        └──firebase.ts
 ├── src/
 │   ├── agents/
 │   │   └── invoiceAgent.ts
